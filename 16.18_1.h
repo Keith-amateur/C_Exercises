@@ -1,0 +1,1 @@
+#define BYE puts("Bye!")
